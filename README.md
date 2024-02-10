@@ -39,4 +39,11 @@ Consider just the two sentences our AI would know based on the top middle cell a
 
 More generally, any time we have two sentences set1 = count1 and set2 = count2 where set1 is a subset of set2, then we can construct the new sentence set2 - set1 = count2 - count1. 
 
+# GUI 
+
+<img width="449" alt="image" src="https://github.com/AlokChedambath64/Minesweeper/assets/110228030/6e84edba-0659-4a98-80a3-174c5c9e041a">
+
+The user can choose to play the game with traditional controls, but clicking on the AI move button will prompt the AI to make a move.
+
+
 
